@@ -1,0 +1,15 @@
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\bin\Debug\net6.0\primer02.exe
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\bin\Debug\net6.0\primer02.deps.json
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\bin\Debug\net6.0\primer02.runtimeconfig.json
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\bin\Debug\net6.0\primer02.dll
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\bin\Debug\net6.0\primer02.pdb
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\obj\Debug\net6.0\primer02.csproj.AssemblyReference.cache
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\obj\Debug\net6.0\primer02.GeneratedMSBuildEditorConfig.editorconfig
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\obj\Debug\net6.0\primer02.AssemblyInfoInputs.cache
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\obj\Debug\net6.0\primer02.AssemblyInfo.cs
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\obj\Debug\net6.0\primer02.csproj.CoreCompileInputs.cache
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\obj\Debug\net6.0\primer02.dll
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\obj\Debug\net6.0\refint\primer02.dll
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\obj\Debug\net6.0\primer02.pdb
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\obj\Debug\net6.0\primer02.genruntimeconfig.cache
+O:\OneDrive\GB\Introduction to programming languages (DZ)\DZ_29_01_23\primer02\obj\Debug\net6.0\ref\primer02.dll
